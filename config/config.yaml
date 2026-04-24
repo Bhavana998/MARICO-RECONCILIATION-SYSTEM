@@ -1,0 +1,20 @@
+# config/config.yaml
+cat > config/config.yaml << 'EOF'
+tolerance: 0.02  # 2% tolerance for matching
+
+database:
+  path: "data/marico_recon.duckdb"
+
+customers:
+  sources:
+    - name: "reliance"
+      type: "csv"
+      path: "data/raw/customer_claims.csv"
+    - name: "amazon"
+      type: "csv"
+      path: "data/raw/customer_claims.csv"
+
+logging:
+  level: "INFO"
+  file: "logs/reconciliation.log"
+EOF

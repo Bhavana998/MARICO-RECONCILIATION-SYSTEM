@@ -1,0 +1,9 @@
+metric,value
+Total Transactions,500
+Matched,420
+Partial Matches,72
+Mismatches,8
+Missing in Marico,0
+Missing in Customer,0
+Auto-Approval Eligible,432
+Total Variance,"₹-1,137,487.51"
