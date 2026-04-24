@@ -1,4 +1,4 @@
-# 🧾 Intelligent Customer Reconciliation System
+# 🧾 Marico Reconciliation System
 
 ## 📌 Overview
 This project is a data reconciliation system designed to solve real-world challenges in FMCG companies where financial reconciliation across multiple channels is complex and time-consuming.
@@ -20,6 +20,7 @@ In large-scale businesses:
 This leads to delayed financial closure and blocked working capital.
 
 ---
+deployment link: https://bhavana998-marico-reconciliation-system-dashboard-qn3pnw.streamlit.app/
 
 ## 🚀 Solution
 This project provides a prototype reconciliation engine that:
@@ -112,10 +113,6 @@ pip install -r requirements.txt
 
 ### 3. Run Application
 python app.py
-
-### 4. Run Workflow (Optional)
-- Open n8n
-- Import: workflows/reconciliation_workflow.json
 
 ---
 
