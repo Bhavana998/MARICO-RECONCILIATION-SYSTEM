@@ -20,10 +20,12 @@ In large-scale businesses:
 This leads to delayed financial closure and blocked working capital.
 
 ---
-deployment link: https://bhavana998-marico-reconciliation-system-dashboard-qn3pnw.streamlit.app/
+# deployment link: https://bhavana998-marico-reconciliation-system-dashboard-qn3pnw.streamlit.app/
 
-🔵click on history 
+🔵click on history
+
 🔵view
+
 🔵dashboard 
 
 ## 🚀 Solution
@@ -109,7 +111,9 @@ MARICO-RECONCILIATION-SYSTEM/
 ## ▶️ Getting Started
 
 ### 1. Clone Repository
+
 git clone https://github.com/Bhavana998/MARICO-RECONCILIATION-SYSTEM.git
+
 cd MARICO-RECONCILIATION-SYSTEM
 
 ### 2. Install Dependencies
