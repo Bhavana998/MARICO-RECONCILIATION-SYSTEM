@@ -1,4 +1,4 @@
-Marico Reconciliation System
+**Marico Reconciliation System**
 
 📌 What This Project Does
 
@@ -17,8 +17,6 @@ link : https://bhavana998-marico-reconciliation-system-dashboard-qn3pnw.streamli
 
 ⚠️ This repository primarily demonstrates implementation (code + workflow) rather than a full enterprise deployment.
 
-
----
 
 🧩 What I Have Built
 
@@ -46,9 +44,6 @@ Structure unorganized financial data
 Demonstrate automation using workflows
 
 
-
----
-
 📁 Project Structure
 
 MARICO-RECONCILIATION-SYSTEM/
@@ -75,7 +70,6 @@ MARICO-RECONCILIATION-SYSTEM/
 └── README.md                        # Project documentation
 
 
----
 
 🔄 How It Works
 
@@ -97,10 +91,6 @@ MARICO-RECONCILIATION-SYSTEM/
 6. (Optional) Trigger n8n workflow for automation
 
 
-
-
----
-
 🚀 How to Run
 
 1. Clone Repository
@@ -116,8 +106,6 @@ pip install -r requirements.txt
 
 python app.py
 
----
-
 📊 Output
 
 The system generates:
@@ -129,9 +117,6 @@ Mismatch reports
 Structured reconciliation results
 
 
-
----
-
 🧠 What This Project Demonstrates
 
 Understanding of reconciliation problems in FMCG
@@ -140,13 +125,8 @@ Data processing and cleaning
 
 Basic financial matching logic
 
-Workflow automation (n8n)
-
 Real-world problem modeling
 
-
-
----
 
 ⚠️ Limitations
 
@@ -156,9 +136,6 @@ Rule-based matching (no advanced ML yet)
 
 Not integrated with live ERP systems
 
-
-
----
 
 🔮 Future Improvements
 
@@ -171,15 +148,10 @@ Real-time dashboard
 ERP (SAP) integration
 
 
-
----
-
 📌 Note
 
 This project is designed as a practical prototype to demonstrate reconciliation automation concepts and workflow design.
 
-
----
 
 ⭐ Why This Project Matters
 
@@ -191,9 +163,6 @@ Data can be structured
 
 Automation can improve efficiency
 
-
-
----
 
 👩‍💻 Author
 
