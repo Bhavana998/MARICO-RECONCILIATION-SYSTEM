@@ -95,16 +95,16 @@ MARICO-RECONCILIATION-SYSTEM/
 
 1. Clone Repository
 
-git clone https://github.com/Bhavana998/MARICO-RECONCILIATION-SYSTEM.git
+   git clone https://github.com/Bhavana998/MARICO-RECONCILIATION-SYSTEM.git
 cd MARICO-RECONCILIATION-SYSTEM
 
 2. Install Dependencies
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Run Project
 
-python app.py
+   python app.py
 
 📊 Output
 
