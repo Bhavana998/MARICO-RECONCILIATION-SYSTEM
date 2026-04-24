@@ -22,6 +22,10 @@ This leads to delayed financial closure and blocked working capital.
 ---
 deployment link: https://bhavana998-marico-reconciliation-system-dashboard-qn3pnw.streamlit.app/
 
+🔵click on history 
+🔵view
+🔵dashboard 
+
 ## 🚀 Solution
 This project provides a prototype reconciliation engine that:
 - Ingests financial datasets
