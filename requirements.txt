@@ -1,0 +1,12 @@
+pandas
+numpy
+pydantic
+duckdb
+pyyaml
+fuzzywuzzy
+python-Levenshtein
+streamlit
+plotly
+openpyxl
+requests
+python-dateutil
